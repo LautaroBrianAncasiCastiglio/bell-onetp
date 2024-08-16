@@ -2,7 +2,7 @@ interface User {
     username: string;
     email: string;
     password: string;
-    zipCode: string;
+    CP: string;
 }
 
 export default User;
